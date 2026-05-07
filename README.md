@@ -83,7 +83,6 @@ If you wish to run the backend locally while keeping the database in Docker:
 | `GET` | `/api/questions` | Fetch all questions (sorted) |
 | `POST` | `/api/questions` | Create a new question |
 | `DELETE` | `/api/questions/:id` | Delete and re-index sequence |
-| `GET` | `/health` | DB connection check |
 
 ## 🛡️ License
 
